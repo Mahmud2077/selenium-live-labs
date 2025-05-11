@@ -15,7 +15,7 @@ public class Task1 {
          *   2- Go to "https://vytrack.com"
          *   3- Click LOGIN button
          *   4- Login to application with username as "user1" and password as "UserUser123"
-         *   5- Verify the title contains "Dashboard"
+         *   5- Verify the title contains "Dashboard".
          */
 
 
